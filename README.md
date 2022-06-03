@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @cushionking2
+- 👋 Hi, I’m @cushionking2 a.k.a Austin Wang
 - 👀 I’m interested in programming, gaming, working out
 - 🌱 I’m currently learning Data Science/Web Development
 - 💞️ I’m looking to collaborate on any kinds of projects
